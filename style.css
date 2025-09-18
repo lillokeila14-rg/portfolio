@@ -1,0 +1,27 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(138, 66, 255);
+    padding: 10px;
+}
+
+nav a{
+    color:rgb(127, 152, 255);
+    text-decoration: none;
+    margin:0 10px;
+}
+ 
+body{
+    background-color: rgb(42, 134, 104);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  
+}
+h1{
+    color: rgb(238, 114, 114);
+    font-size:48px;
+}
+p{
+    color: rgb(126, 216, 216);
+    font-size:20px;
+}
